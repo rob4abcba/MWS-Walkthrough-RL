@@ -23,7 +23,7 @@ The last 2 are the hardest requirements, but if you followed the walkthrough, yo
 
 ## How to run on your computer
 
-This walkthrough is live in https://alexandroperez.github.io/mws-walkthrough, but if you want to run on your local machine, simply clone the repo and run it using your favorite local server. For example to run on port `3000` using python you can use:
+This walkthrough is live in https://rob4abcba.github.io/mws-walkthrough, but if you want to run on your local machine, simply clone the repo and run it using your favorite local server. For example to run on port `3000` using python you can use:
 ```
 #python3
 $ python3 -m http.server 3000
