@@ -1,5 +1,5 @@
 # mws-walkthrough
-A walkthrough of the Mobile Web Specialist Phase 1 - 3 projects of the Udacity Project
+A walkthrough of the Udacity Mobile Web Specialist (MWS) Nanodegree Restaurant Reviews Phases 1 - 3 Projects
 
 ## Please don't just copy and paste, is for your own benefit.
 
