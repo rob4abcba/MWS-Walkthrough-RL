@@ -1,14 +1,6 @@
 # mws-walkthrough
 A walkthrough of the Udacity Mobile Web Specialist (MWS) Nanodegree Restaurant Reviews Projects (Phases 1, 2, and 3)
 
-## Please don't just copy and paste, is for your own benefit.
-
-I created this walkthrough to help fellow classmates get closer to the finish line, while providing an explanation of what the provided code does. That's why I suggested in the walkthrough to add comments in your code explaining, in your own words, what the code does.
-
-## Let your reviewers know you're using this walkthrough
-
-If you're going to use this walkthrough, it is your responsibility, as [stated by the Udacity guidelines](https://udacity.zendesk.com/hc/en-us/articles/360001451091-What-is-plagiarism-), to let your reviewers know that you used code from this walkthrough.
-
 ## This walkthrough only covers part of the project.
 
 It's worth noting that there is not enough code for the whole project to be completed. The following has to be completed by you:
