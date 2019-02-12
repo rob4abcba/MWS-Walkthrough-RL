@@ -1,9 +1,9 @@
 # mws-walkthrough
-A walkthrough of the Udacity Mobile Web Specialist (MWS) Nanodegree Restaurant Reviews Projects (Phases 1, 2, and 3)
+This is a walkthrough of the Udacity Mobile Web Specialist (MWS) Nanodegree Restaurant Reviews Projects (Phases 1, 2, and 3)
 
 This walkthrough only covers part of the project.
 
-It's worth noting that there is not enough code for the whole project to be completed. The following has to be completed by you:
+There is not enough code for the whole project to be completed. The following has to be completed by you:
 
 * Styling and fixing GUI issues on your app
 * Implement image lazy loading
