@@ -24,3 +24,9 @@ $ python3 -m http.server 3000
 $ python -m SimpleHTTPServer 3000
 ```
 And now you can access the walkthrough on http://localhost:3000/
+
+## Files
+
+main.js - Controls how the YouTube videos are displayed
+
+
