@@ -1,6 +1,6 @@
 // TODO: set to last section played by user using iDB
 var gId = 1;
-var noVideo = false;
+var noVideo = true;
 
 document.addEventListener('DOMContentLoaded', event => {
   getData()
