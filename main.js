@@ -206,12 +206,12 @@ function embedVideo(video) {
     warning = document.createElement('div');
     warning.id = 'warning';
     warning.innerHTML = `
-    <h2>Please don't just copy and paste, is for your own benefit.</h2>
-    <p>I created this walkthrough to help fellow classmates get closer to the finish line, while providing an explanation of what the provided code does. That's why I suggested in the walkthrough to add comments in your code explaining, in your own words, what the code does.</p>
+    <h2>For your own learning benefit, please don't just copy and paste.</h2>
+    <p>This walkthrough to help fellow classmates, while providing an explanation of what the provided code does. I suggest you add comments in your code explaining, in your own words, what the code does.</p>
     <h2>Let your reviewers know you're using this walkthrough</h2>
     <p>If you're going to use this walkthrough, it is your responsibility, as <a href="https://udacity.zendesk.com/hc/en-us/articles/360001451091-What-is-plagiarism-">stated by the Udacity guidelines</a>, to let your reviewers know that you used code from this walkthrough.</p>
     <h2>This walkthrough only covers part of the project</h2>
-    <p>It's worth noting that there is not enough code for the whole project to be completed. The following has to be completed by you:</p>
+    <p>There is not enough code for the whole project to be completed. The following has to be completed by you:</p>
     <ul>
     <li>Styling and fixing GUI issues on your app</li>
     <li>Implement image lazy loading</li>
