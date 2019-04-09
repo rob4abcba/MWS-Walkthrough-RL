@@ -184,8 +184,8 @@ function showLast(video) {
 }
 
 function embedVideo(video) {
-  const title = document.getElementById('video-title');
-  title.innerText = `${video.title}`;
+  const title = document.getElementById('video-title'); // RL index.html has h2 object <h2 id="video-title">
+  title.innerText = `${video.title}`;  // RL index.html has h2 with innerText set to video.title
   title.scrollIntoView();
 
   const link = video.href.split('/');
