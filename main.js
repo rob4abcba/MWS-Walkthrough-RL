@@ -193,6 +193,9 @@ function embedVideo(video) {
 
   const iframe = document.getElementById('player');
   if (!noVideo) iframe.src = `https://www.youtube.com/embed/${videoId}?rel=0&amp;showinfo=0`;
+  
+  console.log("iframe.src = ", iframe.src); // RL 
+  debugger; // RL
 
   const mdContainer = document.getElementById('md');
   mdContainer.innerHTML = "";
