@@ -33,7 +33,8 @@ document.addEventListener('DOMContentLoaded', event => {
 });
 
 function getData() {
-  const pathname = location.pathname;
+  debugger;
+  const pathname = location.pathname; // RL location.pathname is a standard JavaScript reserved keyword
   return fetch(`${pathname}data/chapters.json`).then(response => {
     if (!response.ok) return Promise.reject("fetch failed");
     return response.json();
